@@ -38,7 +38,7 @@ EasyBank was my very first Web development project where I found the workflow of
 
 **Website Preview Link**
 
-#### Url: [Visit Website](easy-bank.pages.dev)
+#### Url: [Visit Website](https://easy-bank.pages.dev/)
 
 **Features**
 
